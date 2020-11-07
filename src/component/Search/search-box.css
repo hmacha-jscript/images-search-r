@@ -1,0 +1,20 @@
+.search-box {
+	text-align: center;
+	margin: 10px auto;
+}
+
+.search-box .search-term {
+	width: 400px;
+	height: 30px;;
+	text-align: center;
+	font-size: 1.5em;
+}
+
+.search-btn {
+	width: 90px;
+	height: 30px;
+	background-color: #888899;
+	border-radius: 10px;
+	color: white;
+	margin: 5px;
+}
